@@ -1,1 +1,7 @@
-{ "hwids": ["abc123...", "def456..."] }
+{
+  "hwids": [
+    { "hwid": "e943d365-c5b8-433f-a93d-ef9dc62392f3", "owner": "EiProX" },
+    { "hwid": "def456...", "owner": "Alex" },
+    { "hwid": "ghi789...", "owner": "Dona" }
+  ]
+}
